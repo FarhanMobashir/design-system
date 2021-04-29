@@ -53,6 +53,8 @@
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.2.9",
+    "@storybook/addon-backgrounds": "^6.0.21",
+    "@storybook/addon-contexts": "^5.3.21",
     "@storybook/addon-essentials": "^6.2.9",
     "@storybook/addon-links": "^6.2.9",
     "@storybook/node-logger": "^6.2.9",
