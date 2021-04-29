@@ -9,7 +9,7 @@ export const contexts = [
     params: [
       // an array of params contains a set of predefined `props` for `components`
       { name: "Default Theme", props: { theme: defaultTheme, default: true } },
-      { name: "Dark Theme", props: { theme: defaultTheme } },
+      { name: "Dark Theme", props: { theme: darkTheme } },
     ],
     options: {
       deep: true, // pass the `props` deeply into all wrapping components

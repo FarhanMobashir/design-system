@@ -1,4 +1,4 @@
-import { addParameters, addDecorators, addDecorator } from "@storybook/react";
+import { addParameters, addDecorator } from "@storybook/react";
 import { withContexts } from "@storybook/addon-contexts";
 import { contexts } from "./contexts";
 
