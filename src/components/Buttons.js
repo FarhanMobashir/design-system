@@ -1,4 +1,5 @@
 import styled from "styled-components";
+// eslint-disable-next-line
 import { theme, typeScale } from "../utils";
 import { applyStyleModifiers } from "styled-components-modifiers";
 

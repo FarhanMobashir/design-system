@@ -7,6 +7,8 @@ export const defaultTheme = {
   primaryColorActive: purple[100],
   formElementBackground: neutral[100],
   textOnFormElementBackground: neutral[600],
+  textFieldBackground: neutral[200],
+  textFieldLabelColor: neutral[500],
 
   // * Text-Colors
 
@@ -45,6 +47,8 @@ export const darkTheme = {
 
   formElementBackground: purple[200],
   textOnFormElementBackground: neutral[100],
+  textFieldBackground: purple[100],
+  textFieldLabelColor: neutral[500],
 
   status: {
     warningColor: yellow[100],
